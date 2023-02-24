@@ -17,7 +17,7 @@
 - You can log in using this email sayed@yahoo.com or create a new account
 - After logging in, you can view the cart and make a checkout
 
-### Technologies Used in This Projext:
+### Tools Used in This Project:
 
 ---
 
@@ -32,7 +32,7 @@
 - CSS
 - firebase
 - slick-carousel
-- 
+
 
 ### How to start?
 
