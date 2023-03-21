@@ -13,9 +13,9 @@ import featureData01 from "../assets/images/service-01.png";
 import featureData02 from "../assets/images/service-02.png";
 import featureData03 from "../assets/images/service-03.png";
 
-import foodCategoryImg01 from "../assets/images/hamburger.png";
-import foodCategoryImg02 from "../assets/images/pizza.png";
-import foodCategoryImg03 from "../assets/images/bread.png";
+import foodCategoryImg01 from "../assets/images/hamburger.jpg";
+import foodCategoryImg02 from "../assets/images/pizza.jpg";
+import foodCategoryImg03 from "../assets/images/banner.jpg";
 
 import products from "../assets/fake-data/products";
 
