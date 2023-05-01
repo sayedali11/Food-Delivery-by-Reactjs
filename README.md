@@ -16,10 +16,10 @@
 ### Technologies Used:
 - React js 18
 - bootstrap 5
-- react-redux
-- react-router
-- react-slick
-- firebase
+- ReduxToolkit
+- React-Router
+- React-Slick
+- Firebase
 
 
 #### How to start?
